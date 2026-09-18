@@ -1,8 +1,8 @@
-# Case Study — Hyundai Elevator SAP Data & Analytics Intelligence Platform
+# Case Study Hyundai Elevator SAP Data & Analytics Intelligence Platform
 
 ## Modernizing Enterprise Manufacturing, Elevator IoT & Maintenance Analytics with SAP Datasphere, SAP Analytics Cloud and AWS
 
-**Developed by Naveed Jokhio — Data Engineer**
+**Developed by Naveed Jokhio  Data Engineer**
 
 **Project Focus:** Data Engineering • SAP Datasphere • SAP Analytics Cloud • IoT Analytics • AWS • Data Modeling • Near-Real-Time Analytics
 
